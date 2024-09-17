@@ -73,5 +73,3 @@ If the model fails to generate a response, the app will return an error message 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
